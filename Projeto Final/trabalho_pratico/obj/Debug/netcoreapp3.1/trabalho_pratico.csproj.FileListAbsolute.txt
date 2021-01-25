@@ -1,0 +1,13 @@
+C:\Users\bruno\source\repos\trabalho_pratico\bin\Debug\netcoreapp3.1\trabalho_pratico.exe
+C:\Users\bruno\source\repos\trabalho_pratico\bin\Debug\netcoreapp3.1\trabalho_pratico.deps.json
+C:\Users\bruno\source\repos\trabalho_pratico\bin\Debug\netcoreapp3.1\trabalho_pratico.runtimeconfig.json
+C:\Users\bruno\source\repos\trabalho_pratico\bin\Debug\netcoreapp3.1\trabalho_pratico.runtimeconfig.dev.json
+C:\Users\bruno\source\repos\trabalho_pratico\bin\Debug\netcoreapp3.1\trabalho_pratico.dll
+C:\Users\bruno\source\repos\trabalho_pratico\bin\Debug\netcoreapp3.1\trabalho_pratico.pdb
+C:\Users\bruno\source\repos\trabalho_pratico\obj\Debug\netcoreapp3.1\trabalho_pratico.csprojAssemblyReference.cache
+C:\Users\bruno\source\repos\trabalho_pratico\obj\Debug\netcoreapp3.1\trabalho_pratico.csproj.CoreCompileInputs.cache
+C:\Users\bruno\source\repos\trabalho_pratico\obj\Debug\netcoreapp3.1\trabalho_pratico.AssemblyInfoInputs.cache
+C:\Users\bruno\source\repos\trabalho_pratico\obj\Debug\netcoreapp3.1\trabalho_pratico.AssemblyInfo.cs
+C:\Users\bruno\source\repos\trabalho_pratico\obj\Debug\netcoreapp3.1\trabalho_pratico.dll
+C:\Users\bruno\source\repos\trabalho_pratico\obj\Debug\netcoreapp3.1\trabalho_pratico.pdb
+C:\Users\bruno\source\repos\trabalho_pratico\obj\Debug\netcoreapp3.1\trabalho_pratico.genruntimeconfig.cache

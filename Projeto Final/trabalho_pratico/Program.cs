@@ -543,7 +543,7 @@ namespace trabalho_pratico
         }
         //métudo chamado para retornar mensagem 
         //em relação ao numero de resultados obtidos no métudo que o invoca
-        public string Resultado(int count)
+        private string Resultado(int count)
         {
             if (count == 0)
             {
@@ -713,7 +713,7 @@ namespace trabalho_pratico
             catch (Exception e) { return false; }
         }
 
-        public string Resultado(int count)
+        private string Resultado(int count)
         {
             if (count == 0)
             {
